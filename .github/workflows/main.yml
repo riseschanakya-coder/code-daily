@@ -41,7 +41,7 @@ jobs:
           case "$CODEDAILY_URL" in
             https://*) ;;
             *)
-              echo "CODEDAILY_URL must start with https://"
+              echo "CODEDAILY_URL must start with https://code-daily-hgfj.onrender.com"
               exit 1
               ;;
           esac
