@@ -1,0 +1,12 @@
+<resources>
+    <color name="app_green">#13BDEB</color>
+    <color name="app_background">#08090C</color>
+    <color name="app_text">#F6F4FA</color>
+    <color name="app_panel">#17171D</color>
+    <color name="app_panel_light">#222129</color>
+    <color name="app_muted">#AAA5B3</color>
+    <color name="app_pink">#D980EF</color>
+    <color name="app_purple">#8C6CFF</color>
+    <color name="app_blue">#2D9BFF</color>
+    <color name="app_border">#35323D</color>
+</resources>
